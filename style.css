@@ -1,0 +1,37 @@
+body{
+    background: gray;
+    color: gray;
+}
+
+header{
+    font-size: 40px;
+    border-bottom: solid 2px white;
+    color: white;
+    padding: 1%;
+}
+
+h1{
+    font-size: 35px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.chamada{
+    background-color: beige;
+    display: flex;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-left: 2%;
+    margin-right: 5%;
+}
+
+
+.chamada-video{
+    margin-right: 5%;
+}
